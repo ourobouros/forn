@@ -1,0 +1,31 @@
+{
+  "name": "forn",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscop/forn"
+  },
+  "keywords": [
+    "form",
+    "forn",
+    "handle",
+    "manage",
+    "data",
+    "submit"
+  ],
+  "author": "Francisco Presencia (https://francisco.io/) <public@francisco.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.3",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.3",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
